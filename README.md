@@ -13,3 +13,5 @@ Las funciones faltantes:
   ·Administrar los servicios (Arranque (al inicio), Parada o Reinicio, desde el "Dashboard"
   ·Administrar la configuración de los servicios desde páginas individuales, recogiendo la configuración de los mismos y sirviéndola al usuario.
   
+# Alpha 1.a:
+  ·Se añade soporte de Bootstrap para compatibilidad, portabilidad y diseño "responsive".
