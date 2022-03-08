@@ -24,4 +24,4 @@ Las funciones faltantes:
   ·Continúa la adaptación del "Dashboard".
     ·Se añaden nuevos contadores ("Porcentaje de Carga promedia del Servidor", "Carga de la CPU", "Carga total de Memoria Física", "Espacio consumido en Disco")
     ·Se añaden botones para gestionar el estado de los servicios, aún sin función.
-    ·Se ha depurado el código lo máximo posible
+    -- Primer "Release" publicado
