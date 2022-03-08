@@ -24,4 +24,4 @@ Continúa la adaptación del "Dashboard":
 <li>Se añaden nuevos contadores ("Porcentaje de Carga promedia del Servidor", "Carga de la CPU", "Carga total de Memoria Física", "Espacio consumido en Disco")</li>
 <li>Se añaden botones para gestionar el estado de los servicios, aún sin función.</li>
 <h3>Primera Versión de Pruebas del paquete publicada -- V0.2 (Alpha)</h3>
-<a href="">Ir al "Release"</a>
+<a href="https://github.com/LightOracle67/pi_fdgs_ipbx_raspberry/releases/tag/v0.2">Ir al "Release"</a>
