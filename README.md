@@ -15,3 +15,9 @@ Las funciones faltantes:
   
 # Alpha 1.a:
   ·Se añade soporte de Bootstrap para compatibilidad, portabilidad y diseño "responsive".
+
+# Alpha 1.b:
+  ·Continúa la adaptación del "Dashboard".
+    ·Se añaden nuevos contadores ("Porcentaje de Carga promedia del Servidor", "Carga de la CPU", "Carga total de Memoria Física", "Espacio consumido en Disco")
+    ·Se añaden botones para gestionar el estado de los servicios, aún sin función.
+    ·Se ha depurado el código lo máximo posible
