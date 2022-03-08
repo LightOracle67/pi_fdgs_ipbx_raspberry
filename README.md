@@ -1,6 +1,10 @@
 # pi_fdgs_ipbx_raspberry
 Servidor IPBX completo en Raspberry Pi
 
+# Observaciones Importantes
+Este paquete, aunque se haya diseñado originalmente para ser usado en Raspberry Pi, puede ser utilizado
+en cualquier distribución Linux, siempre que los paquetes necesarios estén instalados y configurados.
+Se detallará la lista completa de paquetes requeridos, al final de este fichero.
 
 # Alpha 1:
 Comienza el proceso de creación del proyecto en sí.
@@ -10,7 +14,7 @@ Por ahora, las funciones incluidas son:
 
 Las funciones faltantes:
   ·Añadir al dashboard el estado de los servicios
-  ·Administrar los servicios (Arranque (al inicio), Parada o Reinicio, desde el "Dashboard"
+  ·Administrar los servicios (Arranque (al inicio), Parada o Reinicio), desde el "Dashboard"
   ·Administrar la configuración de los servicios desde páginas individuales, recogiendo la configuración de los mismos y sirviéndola al usuario.
   
 # Alpha 1.a:
