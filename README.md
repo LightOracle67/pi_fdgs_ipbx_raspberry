@@ -4,8 +4,27 @@ Servidor IPBX completo en Raspberry Pi
 # Observaciones Importantes
 Este paquete, aunque se haya diseñado originalmente para ser usado en Raspberry Pi, puede ser utilizado
 en cualquier distribución Linux, siempre que los paquetes necesarios estén instalados y configurados.
-Se detallará la lista completa de paquetes requeridos, al final de este fichero.
+Se detallará la lista completa de paquetes requeridos, en la sección "Requerimientos Mínimos", más abajo.
 
+# Requerimientos Mínimos
+  <b>Servicios necesarios:</b>
+  <ul>
+  <li>Servidor HTTP ("apache2");</li>
+  <li>Servidor MYSQL ("mysql-server");</li>
+  <li>Servidor DNS ("named/bind9");</li>
+  <li>Servidor DHCP ("isc-dhcp-server");</li>
+  <li>Servidor IPBX ("asterisk");</li>
+  <li>Servidor SSH ("openssh/sshd/ssh");</li>
+  </ul>
+
+  <b>Sobre el Hardware:</b>
+  <ul>
+  <li>Pantalla:<p>Resolución Mínima: 529x533</p></li>
+  <li>Memoria: <p>Mínimo: 1GB | Recomendado: 2GB o más</p></li>
+  <li>Procesador: <p>Cualquier Intel / AMD x86_64</p></li>
+  <li>Almacenamiento: <p>3MB (no se incluye el S.O)</p></li>
+  </ul>
+  
 # Alpha (v0):
 Comienza el proceso de creación del proyecto en sí.
 Por ahora, las funciones incluidas son:
@@ -24,4 +43,4 @@ Continúa la adaptación del "Dashboard":
 <li>Se añaden nuevos contadores ("Porcentaje de Carga promedia del Servidor", "Carga de la CPU", "Carga total de Memoria Física", "Espacio consumido en Disco")</li>
 <li>Se añaden botones para gestionar el estado de los servicios, aún sin función.</li>
 <h3>Primera Versión de Pruebas del paquete publicada -- V0.2 (Alpha)</h3>
-<a href="https://github.com/LightOracle67/pi_fdgs_ipbx_raspberry/releases/tag/v0.2">Ir al "Release"</a>
+<a href="https://github.com/LightOracle67/pi_fdgs_ipbx_raspberry/releases/tag/v0.2">Versión 0.2 - Acceder a la Descarga</a>
