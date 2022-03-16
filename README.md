@@ -19,10 +19,11 @@ Se detallará la lista completa de paquetes requeridos, en la sección "Requerim
 
   <b>Sobre el Hardware:</b>
   <ul>
-  <li>Pantalla:<p>Resolución Mínima: 529x533</p></li>
+  <li>Pantalla:<p>Resolución Mínima: 565x533 (se recomienda el uso de pantallas con resolución mínima de 800x600)</p></li>
   <li>Memoria: <p>Mínimo: 1GB | Recomendado: 2GB o más</p></li>
   <li>Procesador: <p>Cualquier Intel / AMD x86_64</p></li>
-  <li>Almacenamiento: <p>3MB (no se incluye el S.O)</p></li>
+  <li>Almacenamiento: <p>3MB (no se incluye el S.O, esto es un paquete de software independiente)</p></li>
+  <li>Sistema Operativo: <p>Funcionamiento y desarrollo comprobado en Ubuntu Linux 20.04. Puede ser compatible con otras versiones.</p>
   </ul>
   
 # Alpha (v0):
