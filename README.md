@@ -50,8 +50,10 @@ Continúa la adaptación del "Dashboard":
 Ahora, se muestra el estado de los servicios compatibles con este paquete dentro del "Dashboard".
 <li>Los estados que se soportan son : "Activo", "Inactivo", "Cargando...".</li>
 <li>Los botones de "Configuración" y "Estado (arrancar, parar, reiniciar)", aún no tienen función.</li>
+<h3>Versión de Pruebas -- V0.3 (Alpha)</h3>
 <a href="https://github.com/LightOracle67/voipmin/releases/tag/v0.3">Versión 0.3 - Acceder a la Descarga</a>
 
 # Alpha (v0.3a):
 <li>Se ha removido completamente el soporte de "Bootstrap".</li>
+<h3>Versión de Pruebas -- V0.3a (Alpha)</h3>
 <a href="https://github.com/LightOracle67/voipmin/releases/tag/v0.3a">Versión 0.3a - Acceder a la Descarga</a>
