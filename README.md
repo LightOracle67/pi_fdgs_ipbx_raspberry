@@ -53,5 +53,5 @@ Ahora, se muestra el estado de los servicios compatibles con este paquete dentro
 <a href="https://github.com/LightOracle67/voipmin/releases/tag/v0.3">Versión 0.3 - Acceder a la Descarga</a>
 
 # Alpha (v0.3a):
-Se ha removido completamente el soporte de "Bootstrap".
+<li>Se ha removido completamente el soporte de "Bootstrap".</li>
 <a href="https://github.com/LightOracle67/voipmin/releases/tag/v0.3a">Versión 0.3a - Acceder a la Descarga</a>
