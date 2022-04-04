@@ -47,4 +47,7 @@ Continúa la adaptación del "Dashboard":
 <a href="https://github.com/LightOracle67/pi_fdgs_ipbx_raspberry/releases/tag/v0.2">Versión 0.2 - Acceder a la Descarga</a>
 
 # Alpha (v0.3):
+Ahora, se muestra el estado de los servicios compatibles con este paquete dentro del "Dashboard".
+<li>Los estados que se soportan son : "Activo", "Inactivo", "Cargando...".</li>
+<li>Los botones de "Configuración" y "Estado (arrancar, parar, reiniciar)", aún no tienen función.</li>
 <a href="https://github.com/LightOracle67/pi_fdgs_ipbx_raspberry/releases/tag/v0.3">Versión 0.3 - Acceder a la Descarga</a>
