@@ -10,7 +10,7 @@ Se detallará la lista completa de paquetes requeridos, en la sección "Requerim
   <b>Servicios necesarios:</b>
   <ul>
   <li>Servidor HTTP ("apache2; PHP 7.2 / 7.4.3 +");</li>
-  <li>Servidor MYSQL ("mysql-server");</li>
+  <li>Servidor MYSQL ("mysql-server; phpmyadmin");</li>
   <li>Servidor DNS ("named/bind9");</li>
   <li>Servidor DHCP ("isc-dhcp-server");</li>
   <li>Servidor IPBX ("asterisk");</li>
