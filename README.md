@@ -51,3 +51,7 @@ Ahora, se muestra el estado de los servicios compatibles con este paquete dentro
 <li>Los estados que se soportan son : "Activo", "Inactivo", "Cargando...".</li>
 <li>Los botones de "Configuración" y "Estado (arrancar, parar, reiniciar)", aún no tienen función.</li>
 <a href="https://github.com/LightOracle67/pi_fdgs_ipbx_raspberry/releases/tag/v0.3">Versión 0.3 - Acceder a la Descarga</a>
+
+# Alpha (v0.3a):
+Se ha removido completamente el soporte de "Bootstrap".
+<a href="https://github.com/LightOracle67/pi_fdgs_ipbx_raspberry/releases/tag/v0.3a">Versión 0.3a - Acceder a la Descarga</a>
