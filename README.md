@@ -44,14 +44,14 @@ Continúa la adaptación del "Dashboard":
 <li>Se añaden nuevos contadores ("Porcentaje de Carga promedia del Servidor", "Carga de la CPU", "Carga total de Memoria Física", "Espacio consumido en Disco")</li>
 <li>Se añaden botones para gestionar el estado de los servicios, aún sin función.</li>
 <h3>Primera Versión de Pruebas del paquete publicada -- V0.2 (Alpha)</h3>
-<a href="https://github.com/LightOracle67/pi_fdgs_ipbx_raspberry/releases/tag/v0.2">Versión 0.2 - Acceder a la Descarga</a>
+<a href="https://github.com/LightOracle67/voipmin/releases/tag/v0.2">Versión 0.2 - Acceder a la Descarga</a>
 
 # Alpha (v0.3):
 Ahora, se muestra el estado de los servicios compatibles con este paquete dentro del "Dashboard".
 <li>Los estados que se soportan son : "Activo", "Inactivo", "Cargando...".</li>
 <li>Los botones de "Configuración" y "Estado (arrancar, parar, reiniciar)", aún no tienen función.</li>
-<a href="https://github.com/LightOracle67/pi_fdgs_ipbx_raspberry/releases/tag/v0.3">Versión 0.3 - Acceder a la Descarga</a>
+<a href="https://github.com/LightOracle67/voipmin/releases/tag/v0.3">Versión 0.3 - Acceder a la Descarga</a>
 
 # Alpha (v0.3a):
 Se ha removido completamente el soporte de "Bootstrap".
-<a href="https://github.com/LightOracle67/pi_fdgs_ipbx_raspberry/releases/tag/v0.3a">Versión 0.3a - Acceder a la Descarga</a>
+<a href="https://github.com/LightOracle67/voipmin/releases/tag/v0.3a">Versión 0.3a - Acceder a la Descarga</a>
