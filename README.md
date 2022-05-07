@@ -57,3 +57,8 @@ Ahora, se muestra el estado de los servicios compatibles con este paquete dentro
 <li>Se ha removido completamente el soporte de "Bootstrap".</li>
 <h3>Versión de Pruebas -- V0.3a (Alpha)</h3>
 <a href="https://github.com/LightOracle67/voipmin/releases/tag/v0.3a">Versión 0.3a - Acceder a la Descarga</a>
+
+# Alpha (v0.4):
+<h2>Ahora se incluye el paquete en sí, y toda la configuración necesaria en un simple comprimido tar.gz</h2>
+<h3>Versión de Pruebas -- V0.4 (Alpha)</h3>
+<a href="https://github.com/LightOracle67/voipmin/releases/tag/v0.4">Versión 0.4 - Acceder a la Descarga</a>
