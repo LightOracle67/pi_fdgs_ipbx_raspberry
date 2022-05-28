@@ -26,7 +26,7 @@ Se detallará la lista completa de paquetes requeridos, en la sección "Requerim
   <li>Sistema Operativo: <p>Funcionamiento y desarrollo comprobado en Ubuntu Linux 20.04. Puede ser compatible con otras versiones.</p>
   </ul>
 # Acceso Directo a la Versión más reciente:
-<a href="https://github.com/LightOracle67/voipmin/releases/tag/latest/">Acceder a la Descarga</a>
+<a href="https://github.com/LightOracle67/voipmin/releases/latest">Acceder a la Descarga</a>
 
 # Alpha (v0):
 Comienza el proceso de creación del proyecto en sí.
