@@ -67,3 +67,8 @@ Ahora, se muestra el estado de los servicios compatibles con este paquete dentro
 <h2>Ahora se incluye el gestor y dos ficheros necesarios para la correcta implementación.</h2>
 <h3>Versión de Pruebas -- V0.5 (Alpha)</h3>
 <a href="https://github.com/LightOracle67/voipmin/releases/tag/v0.5">Versión 0.5 - Acceder a la Descarga</a>
+
+# Versión de Producción 1 (v1.0.0):
+<h2>Se ha completado la programación del gestor.</h2>
+<h3>Versión de Producción -- V1.0.0 (Release)</h3>
+<a href="https://github.com/LightOracle67/voipmin/releases/tag/v1.0.0">Versión 1.0.0 - Acceder a la Descarga</a>
