@@ -25,7 +25,9 @@ Se detallará la lista completa de paquetes requeridos, en la sección "Requerim
   <li>Almacenamiento: <p>3MB (no se incluye el S.O, esto es un paquete de software independiente)</p></li>
   <li>Sistema Operativo: <p>Funcionamiento y desarrollo comprobado en Ubuntu Linux 20.04. Puede ser compatible con otras versiones.</p>
   </ul>
-  
+# Acceso Directo a la Versión más reciente:
+<a href="https://github.com/LightOracle67/voipmin/releases/tag/latest/">Acceder a la Descarga</a>
+
 # Alpha (v0):
 Comienza el proceso de creación del proyecto en sí.
 Por ahora, las funciones incluidas son:
@@ -72,3 +74,11 @@ Ahora, se muestra el estado de los servicios compatibles con este paquete dentro
 <h2>Se ha completado la programación del gestor.</h2>
 <h3>Versión de Producción -- V1.0.0 (Release)</h3>
 <a href="https://github.com/LightOracle67/voipmin/releases/tag/v1.0.0">Versión 1.0.0 - Acceder a la Descarga</a>
+
+# Versión de Solución de Errores 1.0.1 (v1.0.1):
+<h3>Versión de Producción -- V1.0.1 (Release)</h3>
+<a href="https://github.com/LightOracle67/voipmin/releases/tag/v1.0.1">Versión 1.0.1 - Acceder a la Descarga</a>
+
+# Versión de Solución de Errores 1.1 (v1.1):
+<h3>Versión de Producción -- V1.1 (Release)</h3>
+<a href="https://github.com/LightOracle67/voipmin/releases/tag/v1.1">Versión 1.1 - Acceder a la Descarga</a>
