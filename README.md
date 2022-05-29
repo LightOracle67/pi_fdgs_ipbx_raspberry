@@ -82,3 +82,7 @@ Ahora, se muestra el estado de los servicios compatibles con este paquete dentro
 # Versión de Solución de Errores 1.1 (v1.1):
 <h3>Versión de Producción -- V1.1 (Release)</h3>
 <a href="https://github.com/LightOracle67/voipmin/releases/tag/v1.1">Versión 1.1 - Acceder a la Descarga</a>
+
+# Versión de Solución de Errores 1.1.1 (v1.1.1):
+<h3>Versión de Producción -- V1.1.1 (Release)</h3>
+<a href="https://github.com/LightOracle67/voipmin/releases/tag/v1.1.1">Versión 1.1.1 - Acceder a la Descarga</a>
